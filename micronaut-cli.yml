@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: jhs.no
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle
+features: [ app-name, config4k, docker, file-watch, gradle, http-client, junit, kotlin, kotlin-application, log4j2, readme, shade, tomcat-server ]
